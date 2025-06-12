@@ -1,0 +1,1 @@
+Los archivos data.py e inverted_index.py fueron creados por Daniel.
