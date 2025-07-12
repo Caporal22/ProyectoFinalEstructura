@@ -1,0 +1,15 @@
+# Java build and IDE
+/out/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Editor
+.vscode/
+*.code-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
